@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rotp (6.2.0)
+
+PLATFORMS
+  x86_64-darwin-18
+
+DEPENDENCIES
+  rotp
+
+BUNDLED WITH
+   2.2.26
